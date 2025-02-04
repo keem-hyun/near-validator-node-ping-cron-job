@@ -1,4 +1,6 @@
 # NEAR Validator Ping Script Setup Guide
+### if you on testnet, you have to send ping to pool every epoch.
+### but if you on mainnet, you don't have to send. metapool will do it for you.
 
 ### 1. install required packages
 ```
